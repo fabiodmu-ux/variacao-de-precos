@@ -1,2 +1,3 @@
 # Varia de preços
 Monitoramento dos preços de 3 produtos da cesta básica
+file:///C:/ADS/Algoritmos%20e%20Pensamento%20Computacional/analise_precos.html
