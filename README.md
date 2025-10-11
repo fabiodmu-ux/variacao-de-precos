@@ -2,5 +2,4 @@
 
 Apresentar a variação de preços da cesta básica ao longo do tempo.
 
-https://fabiodmu-ux.github.io/Varia-o-de-Pre-os/
-
+(https://fabiodmu-ux.github.io/variacao-de-precos/)
