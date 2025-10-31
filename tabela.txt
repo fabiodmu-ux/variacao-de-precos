@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,(pedido o navegador para a largura da pagina ser igual a largura da tela) initial-scale-1.0">
+<title>	Minha primeira Página </title>
+</head>
+<body>
+<h1>Tabela de produtos</h1>
+<table border="1">
+<tr> 
+<th>Produtos</th> 
+<th>Preços Anterior</th>
+<th>Preço Atual</th>
+<th>Resultado Esperado</h1>
+</tr>
+<tr>
+	<td>Arroz</td>
+	<td>R$20,00</td>
+	<td>R$22,50</td>
+	<td>Aumento(+12,5%)-> ABUSO</td>
+</tr>
+<tr>
+	<td>Pão</td>
+	<td>8,00</td>
+	<td>7,80</td>
+	<td>Queda(-5,0%)->Sem Abuso
+</tr>
+<tr>
+	<td>Leite</td>
+	<td>5,00</td>
+	<td>5,00</td>
+	<td>Estável(0,0%)->Sem Abuso
+</tr>
+</table>
+<br> <a href="primeiro projeto.html">volta para  pagina prinipal</a>
+</body>
